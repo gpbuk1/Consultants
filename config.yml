@@ -1,0 +1,7 @@
+development:
+  password: 2277a1614f6a13862e40dfd84d9cb5ed
+  theme_id: "155219271"
+  store: shopconsult.myshopify.com
+  bucket_size: 40
+  refill_rate: 2
+  concurrency: 2
